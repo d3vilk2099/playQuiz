@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">PlayQuiz</string>
+    <string-array name="question">
+        <item>I am from which series ?</item>
+        <item>Which Movie that i coming from ?</item>
+        <item>What  is my name ?</item>
+        <item>I Love my Father more that everything</item>
+        <item>My friends is Sulley</item>
+        <item>My Girl Friends is Angel</item>
+        <item>I am waiting my prince</item>
+        <item>I am aladdin girl friends</item>
+        <item>I am from what movie</item>
+        <item>I like Honey</item>
+
+    </string-array>
+    <string-array name="option">
+        <item>Mickey &amp; Friends</item>
+        <item>Winnie The Pooh</item>
+        <item>Lilo &amp; Stitch</item>
+        <item>Cinderella</item>
+        <item>Frozen</item>
+        <item>Toy Story</item>
+        <item>Peter Pan</item>
+        <item>Star Wars</item>
+        <item>Little Oyster</item>
+        <item>Bambi</item>
+        <item>Mike</item>
+        <item>Miss Bunny</item>
+        <item>Belle</item>
+        <item>Beast</item>
+        <item>Anna</item>
+        <item>Tinker Bell</item>
+        <item>Mike</item>
+        <item>Randall</item>
+        <item>Aladdin</item>
+        <item>Alice</item>
+        <item>Lilo</item>
+        <item>Arlo</item>
+        <item>Babymax</item>
+        <item>Stitch</item>
+        <item>Rapuzel</item>
+        <item>Cinderella</item>
+        <item>Anna</item>
+        <item>Crush</item>
+        <item>Elizabeth Swann</item>
+        <item>Jessie</item>
+        <item>Jasmine</item>
+        <item>Ariel</item>
+        <item>Bambi</item>
+        <item>Winnie The Pooh</item>
+        <item>Zootopia</item>
+        <item>Monster,Inc</item>
+        <item>Meg</item>
+        <item>Mater</item>
+        <item>Lady</item>
+        <item>Pooh</item>
+    </string-array>
+
+    <string-array name="answer">
+        <item>Lilo &amp; Stitch</item>
+        <item>Star Wars</item>
+        <item>Little Oyster</item>
+        <item>Belle</item>
+        <item>Mike</item>
+        <item>Stitch</item>
+        <item>Cinderella</item>
+        <item>Jasmine</item>
+        <item>Bambi</item>
+        <item>Pooh</item>
+    </string-array>
+    <string-array name="imagename">
+        <item>angel</item>
+        <item>jediluke</item>
+        <item>littleoyster</item>
+        <item>belle</item>
+        <item>mike</item>
+        <item>stitch</item>
+        <item>cinderella</item>
+        <item>jasmine</item>
+        <item>missbunny</item>
+        <item>pooh</item>
+    </string-array>
+
+
+</resources>
